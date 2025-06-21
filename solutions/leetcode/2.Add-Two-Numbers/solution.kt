@@ -1,3 +1,5 @@
+import leetcode.`2`.`Add-Two-Numbers`.ListNode
+
 /**
  * Example:
  * var li = ListNode(5)

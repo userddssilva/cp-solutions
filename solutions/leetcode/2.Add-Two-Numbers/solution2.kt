@@ -1,4 +1,6 @@
-class Solution {
+import leetcode.`2`.`Add-Two-Numbers`.ListNode
+
+class Solution2 {
     private var carry = 0
 
     fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
