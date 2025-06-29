@@ -1,4 +1,4 @@
-package leetcode.`912`.`Sort-an-Array`
+package executor
 
 import utils.IExecutor
 import java.io.File

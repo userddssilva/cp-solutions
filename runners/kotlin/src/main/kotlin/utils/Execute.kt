@@ -1,7 +1,7 @@
 package utils
 
-import leetcode.`704`.`Binary-Search`.Executor000704
-import leetcode.`912`.`Sort-an-Array`.Executor000912
+import executor.Executor000704
+import executor.Executor000912
 
 object Execute {
     fun run(problem: Problem) {

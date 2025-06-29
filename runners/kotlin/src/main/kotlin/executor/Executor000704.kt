@@ -1,5 +1,6 @@
-package leetcode.`704`.`Binary-Search`
+package executor
 
+import leetcode.`704`.`Binary-Search`.Solution
 import utils.IExecutor
 import java.io.File
 
